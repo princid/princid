@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
 
-[![](https://img.shields.io/badge/LinkedIn-PrinceKumarSingh-blue)](https://www.linkedin.com/in/prince-kumar-singh05/)
+[![](https://img.shields.io/badge/LinkedIn-PrinceKumarSingh-blue)](https://www.linkedin.com/in/princid/)
 [![](https://img.shields.io/badge/Gmail-princid85@gmail.com-red)](mailto:princid85@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/-SineshX.github.io-black?style=flat-squarelink=https://SineshX.github.io/)](https://SineshX.github.io/) -->
 <!-- 
