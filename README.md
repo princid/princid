@@ -22,6 +22,8 @@ Here are some ideas to get you started: -->
 ![Anurag's GitHub stats]()
 
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
+![image](https://user-images.githubusercontent.com/90444477/224381294-bdbdfe86-310e-4d76-99de-8d5e9f9b921f.png)
+
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" />
 
