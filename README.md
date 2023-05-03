@@ -45,4 +45,5 @@ Here are some ideas to get you started: -->
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp; -->
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rmf2acoxgaesbb7es22u3i5pne&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31rmf2acoxgaesbb7es22u3i5pne&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31rmf2acoxgaesbb7es22u3i5pne&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
