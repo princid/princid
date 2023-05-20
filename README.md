@@ -34,7 +34,7 @@ Here are some ideas to get you started: -->
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" />
 
-<img align = "right" width = "39%" height = "90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact" />
+<img align = "right" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact" />
 
 | <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" alt="Prince's github stats" /></a> | <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
