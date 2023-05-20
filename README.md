@@ -1,5 +1,10 @@
 # Hi there, I'm Prince Kumar Singh! 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/princid/count.svg" />
+</p>
+
 
 <!-- **princid/princid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,9 +49,6 @@ Here are some ideas to get you started: -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp; -->
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/princid/count.svg" />
-</p>
+
 
 
