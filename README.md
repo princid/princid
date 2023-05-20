@@ -1,8 +1,7 @@
 # Hi there, I'm Prince Kumar Singh! 👋
 
 <p align="center"> 
-  Visitor count<br>
-  <br>
+  Visitor count
   <img src="https://profile-counter.glitch.me/princid/count.svg" />
 </p>
 
