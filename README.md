@@ -30,11 +30,12 @@ Here are some ideas to get you started: -->
 
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
 ![image](https://user-images.githubusercontent.com/90444477/224381294-bdbdfe86-310e-4d76-99de-8d5e9f9b921f.png)
+<img align = "center" width="75%" src="(https://user-images.githubusercontent.com/90444477/224381294-bdbdfe86-310e-4d76-99de-8d5e9f9b921f.png)"/>
 
 
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" />
+<!-- <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" />
 
-<img align = "right" width = "47%" height="90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact" />
+<img align = "right" width = "47%" height="90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact" /> -->
 
 | <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" alt="Prince's github stats" /></a> | <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
