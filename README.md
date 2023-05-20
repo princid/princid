@@ -32,12 +32,12 @@ Here are some ideas to get you started: -->
 ![image](https://user-images.githubusercontent.com/90444477/224381294-bdbdfe86-310e-4d76-99de-8d5e9f9b921f.png)
 
 
-<!-- <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" />
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" />
 
-<img align = "right" width = "39%" height = "90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact" /> -->
+<img align = "right" width = "39%" height = "90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact" />
 
-| <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prince's github stats" /></a> | <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prince's github stats" /></a> | <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 
 <!-- &nbsp; Skills :
 
