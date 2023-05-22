@@ -31,7 +31,7 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
 - 💬 Ask me [here.](https://www.linkedin.com/in/princid/)
 - 📫 You can reach me at [LinkedIn.](https://www.linkedin.com/in/princid/)
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: No one's gonna know.😉
+- ⚡ Fun fact: I love gradient colors.😉
   </details>
 <br>
 <hr>
