@@ -2,10 +2,13 @@
 
 <!-- ![image](https://github.com/princid/princid/assets/90444477/55353c46-4c5f-486b-a23f-b1140ca6a6ae) -->
 <!-- ![image](https://github.com/princid/princid/assets/90444477/95de1b96-6957-4f93-8924-3b7a1959d526) -->
-![image](https://github.com/princid/princid/assets/90444477/50502902-6866-406d-9d17-850027da5371)
+![image](https://github.com/princid/princid/assets/90444477/0046c363-1968-4da8-8aa6-63f3e4c55c81)
+
+
 <br>
 <br>
 <hr>
+
 
 [![](https://img.shields.io/badge/LinkedIn-PrinceKumarSingh-blue)](https://www.linkedin.com/in/princid/)
 [![](https://img.shields.io/badge/Gmail-princid85@gmail.com-red)](mailto:princid85@gmail.com)
@@ -17,7 +20,7 @@
 Here are some ideas to get you started: -->
 ## My Introduction
 <details>
-   <summary>Click Here</summary>
+   <summary>Click Here to know more...</summary>
   <br>
 Quite simple & energetic Frontend Developer with an eye for detail, a passion for design, and a love for creating seamless user experiences. I strive for perfection in every design, and I'm always eager to learn new skills and stay ahead of the latest industry trends. My ability to work in a team, think outside the box, and deliver results makes me a valuable asset to any organization. I'm here to build something great. I would love to connect with like-minded people to build something great together!
 
