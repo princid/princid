@@ -19,8 +19,7 @@
 
 Here are some ideas to get you started: -->
 ## My Introduction
-<details>
-   <summary>Click Here to know more...</summary>
+<!--    <summary>Click Here to know more...</summary> -->
   <br>
 Quite simple & energetic Frontend Developer with an eye for detail, a passion for design, and a love for creating seamless user experiences. I strive for perfection in every design, and I'm always eager to learn new skills and stay ahead of the latest industry trends. My ability to work in a team, think outside the box, and deliver results makes me a valuable asset to any organization. I'm here to build something great. I would love to connect with like-minded people to build something great together!
    <br>
@@ -33,8 +32,6 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
 - ⚡ Fun fact: I love gradient colors.😉
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
-
-  </details>
 <br>
 <hr>
 
@@ -59,8 +56,9 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
 <br>
 <hr>
 
+## My Accomplishments
 <details>
-  <summary>Some more facts about me</summary>
+  <summary>Click here to know more...</summary>
   <br>
 
 ## My Hacktoberfest Achievements (2022)
