@@ -26,14 +26,14 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
    <br>
    <br>
 
-- 🔭 I’m currently working on my final semester project based on React-Native.
-- 🌱 I’m currently learning React-Natice
-- 👯 I’m looking to collaborate on Front-end projects / UI design projects / React-Native based projects.
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me [here.](https://www.linkedin.com/in/princid/)
-- 📫 You can reach me at [LinkedIn.](https://www.linkedin.com/in/princid/)
-<!-- - 😄 Pronouns: ... -->
+- 🔭 I’m currently working on a Cricket Related mobile app in React-Native for fun.
+- 🌱 I’m currently learning React-Native mobile app development from [Meta](https://www.coursera.org/learn/react-native-course).
+- 👯 I’m open to collaborating on Front-end projects / UI design projects / React-Native-based projects.
+- 💬 You can reach me at [LinkedIn.](https://www.linkedin.com/in/princid/)
 - ⚡ Fun fact: I love gradient colors.😉
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 😄 Pronouns: ... -->
+
   </details>
 <br>
 <hr>
