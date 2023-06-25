@@ -50,7 +50,8 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
 ## My Skills
 <p align="left">
   <a href="https://skillicons.dev" &theme=dark>
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vscode,figma,github,mongodb,nodejs,ts,vite,netlify&theme=light" />
+<!--     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vscode,figma,github,mongodb,nodejs,ts,vite,netlify&theme=light" /> -->
+     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vscode,figma,github,netlify&theme=light" />
   </a>
 </p>
 
