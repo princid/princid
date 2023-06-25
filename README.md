@@ -12,7 +12,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-PrinceKumarSingh-blue)](https://www.linkedin.com/in/princid/)
 [![](https://img.shields.io/badge/Gmail-princid85@gmail.com-red)](mailto:princid85@gmail.com)
-[![](https://img.shields.io/badge/Resume-Prince__Resume-brightgreen)](https://drive.google.com/file/d/17qU_mMonzDqpFEZ0Tu4j6kbY2a8bhVxp/view?usp=share_link)
+[![](https://img.shields.io/badge/Resume-Prince__Resume-brightgreen)](https://drive.google.com/file/d/14bT3M-fI40xlTEDCMVbCOlZZ143iuDuu/view?usp=drive_link)
 
 
 <!-- **princid/princid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
