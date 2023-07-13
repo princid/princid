@@ -18,9 +18,8 @@
 <!-- **princid/princid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-## My Introduction
+## 👨🏻‍💻 &nbsp;About Me
 <!--    <summary>Click Here to know more...</summary> -->
-  <br>
 Quite simple & energetic Frontend Developer with an eye for detail, a passion for design, and a love for creating seamless user experiences. I strive for perfection in every design, and I'm always eager to learn new skills and stay ahead of the latest industry trends. My ability to work in a team, think outside the box, and deliver results makes me a valuable asset to any organization. I'm here to build something great. I would love to connect with like-minded people to build something great together!
    <br>
    <br>
@@ -32,33 +31,40 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
 - ⚡ Fun fact: I love gradient colors.😉
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
-<br>
+
 <hr>
 
 
-## My GitHub Profile
+## ⚙️ &nbsp;GitHub Analytics
 
-| <a href="https://github.com/princid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" alt="Prince's github stats" /></a> | <a href="https://github.com/princid/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact&theme=buefy&hide_border=true" /></a><br><br> |
-| ------------- | ------------- |
 <br>
+
+<p align="center">
+<a href="https://github.com/princid">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=princid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=princid&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<p align="center">
+  <img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princid&" alt="princid" />
+</p>
+
 <hr>
 
 
 ## 🛠 &nbsp;Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 <!--
 <p align="left">
@@ -70,20 +76,19 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
 -->
 
 <!--   - For more such icons, Click [Here](https://github.com/tandpfun/skill-icons#icons-list) -->
-<br>
 <hr>
 
-## My Accomplishments
+## 🏆 &nbsp;My Accomplishments
 <details>
-  <summary>Click here to know more...</summary>
+  <summary>Expand...</summary>
   <br>
 
-## My Hacktoberfest Achievements (2022)
+### 🥇 &nbsp;Hacktoberfest (2022)
 ![image](https://user-images.githubusercontent.com/90444477/224381294-bdbdfe86-310e-4d76-99de-8d5e9f9b921f.png)
 <img align = "center" width="50%" src="(https://user-images.githubusercontent.com/90444477/224381294-bdbdfe86-310e-4d76-99de-8d5e9f9b921f.png)"/>
   
   <p align="center"> 
-  VISITOR COUNT<br>
+  VISITOR COUNT 👀<br>
   <br>
   <img src="https://profile-counter.glitch.me/princid/count.svg" />
   <br>
