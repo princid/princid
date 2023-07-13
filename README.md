@@ -6,15 +6,28 @@
 
 <hr>
 
-
+<!--
 [![](https://img.shields.io/badge/LinkedIn-PrinceKumarSingh-blue)](https://www.linkedin.com/in/princid/)
 [![](https://img.shields.io/badge/Gmail-princid85@gmail.com-red)](mailto:princid85@gmail.com)
 [![](https://img.shields.io/badge/Resume-Prince__Resume-brightgreen)](https://drive.google.com/file/d/14bT3M-fI40xlTEDCMVbCOlZZ143iuDuu/view?usp=drive_link)
 
+-->
+
+<h2 align="center">🙋‍♂️ Connect with me</h2>
+<div align="center">
+   <a href="https://www.linkedin.com/in/princid/" target="_blank">
+       <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />&nbsp;
+   </a>
+
+   <a href="mailto:princid85@gmail.com" target="_blank">
+       <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+   </a>
+
+</div>
 
 <!-- **princid/princid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started: -->
+
 ## 👨🏻‍💻 &nbsp;About Me
 <!--    <summary>Click Here to know more...</summary> -->
 Quite simple & energetic **Frontend Developer** with an eye for detail, a passion for design, and a love for creating seamless user experiences. I strive for perfection in every design, and I'm always eager to learn new skills and stay ahead of the latest industry trends. My ability to work in a team, think outside the box, and deliver results makes me a valuable asset to any organization. I'm here to build something great. I would love to connect with like-minded people to build something great together!
