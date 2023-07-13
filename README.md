@@ -20,15 +20,15 @@
 Here are some ideas to get you started: -->
 ## 👨🏻‍💻 &nbsp;About Me
 <!--    <summary>Click Here to know more...</summary> -->
-Quite simple & energetic Frontend Developer with an eye for detail, a passion for design, and a love for creating seamless user experiences. I strive for perfection in every design, and I'm always eager to learn new skills and stay ahead of the latest industry trends. My ability to work in a team, think outside the box, and deliver results makes me a valuable asset to any organization. I'm here to build something great. I would love to connect with like-minded people to build something great together!
+Quite simple & energetic **Frontend Developer** with an eye for detail, a passion for design, and a love for creating seamless user experiences. I strive for perfection in every design, and I'm always eager to learn new skills and stay ahead of the latest industry trends. My ability to work in a team, think outside the box, and deliver results makes me a valuable asset to any organization. I'm here to build something great. I would love to connect with like-minded people to build something great together!
    <br>
    <br>
 
-- 🔭 I’m currently working on a Cricket Related mobile app in React-Native for fun.
-- 🌱 I’m currently learning React-Native mobile app development from [Meta](https://www.coursera.org/learn/react-native-course).
+- 🔭 I’m currently working on a Cricket Related mobile app in **React-Native** for fun.
+- 🌱 I’m currently learning **React-Native mobile app development** from [**Meta**](https://www.coursera.org/learn/react-native-course).
 - 👯 I’m open to collaborating on Front-end projects / UI design projects / React-Native-based projects.
-- 💬 You can reach me at [LinkedIn.](https://www.linkedin.com/in/princid/)
-- ⚡ Fun fact: I love gradient colors.😉
+- 💬 You can reach me at [**LinkedIn**.](https://www.linkedin.com/in/princid/)
+- ⚡ Fun fact : I ❤ **gradient colors**.😉
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 
@@ -110,33 +110,4 @@ Quite simple & energetic Frontend Developer with an eye for detail, a passion fo
 <!-- <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=princid&show_icons=true&theme=radical" />
 
 <img align = "right" width = "47%" height="90%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=princid&layout=compact" /> -->
-
-
-
-
-<!-- <code><img height="50" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="50" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
-
-
-
-
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;&nbsp;
-![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;&nbsp; -->
-
-
-
-
-
-
 
