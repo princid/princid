@@ -79,7 +79,7 @@ Quite simple & energetic **Frontend Developer** with an eye for detail, a passio
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
@@ -90,6 +90,8 @@ Quite simple & energetic **Frontend Developer** with an eye for detail, a passio
      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,react,vscode,figma,github,netlify&theme=light" />
   </a>
 </p>
+TECH STACK ICONS :
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 <!--   - For more such icons, Click [Here](https://github.com/tandpfun/skill-icons#icons-list) -->
