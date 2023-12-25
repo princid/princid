@@ -35,12 +35,12 @@ Here are some ideas to get you started: -->
 <!--    <summary>Click Here to know more...</summary> -->
 **Passionate Fullstack Developer** 🚀
 
-Energetic and detail-oriented **Fullstack Developer** with a knack for design and a drive for seamless user experiences. Perfection is the standard, and staying ahead in tech trends is a habit. Team player, out-of-the-box thinker, and results-driven. Let's connect and build something great together! 💻✨
+Energetic and detail-oriented **Fullstack Software Developer** with a knack for design and a drive for seamless user experiences. Perfection is the standard, and staying ahead in tech trends is a habit. Team player, out-of-the-box thinker, and results-driven. Let's connect and build something great together! 💻✨
    <br>
    <br>
 
-- 🔭 I’m currently working at a startup as a **Fullstack Developer**.
-- 🌱 I’m currently contributing in **Fullstack development**.
+- 🔭 I’m currently working at a startup as a **Fullstack Software Developer**.
+- 🌱 I’m currently contributing in **Fullstack Web-Development** projects.
 - 👯 I’m open to collaborating on **Web Development** projects.
 - 💬 You can reach me at [**LinkedIn**.](https://www.linkedin.com/in/princid/)
 - ⚡ Fun fact : I ❤ **gradient colors**.😉
