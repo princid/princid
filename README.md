@@ -39,9 +39,9 @@ Energetic and detail-oriented **Fullstack Developer** with a knack for design an
    <br>
    <br>
 
-- 🔭 I’m currently working on a Cricket Related mobile app in **React-Native** for fun.
-- 🌱 I’m currently learning **React-Native mobile app development** from [**Meta**](https://www.coursera.org/learn/react-native-course).
-- 👯 I’m open to collaborating on Front-end projects / UI design projects / React-Native-based projects.
+- 🔭 I’m currently working at a startup as a **Fullstack Developer**.
+- 🌱 I’m currently contributing in **Fullstack development**.
+- 👯 I’m open to collaborating on **Web Development** projects.
 - 💬 You can reach me at [**LinkedIn**.](https://www.linkedin.com/in/princid/)
 - ⚡ Fun fact : I ❤ **gradient colors**.😉
 <!-- - 🤔 I’m looking for help with ... -->
