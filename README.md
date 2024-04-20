@@ -40,6 +40,7 @@ Energetic and detail-oriented **Fullstack Software Developer** with a knack for 
    <br>
 
 - 🔭 I’m currently working at a startup as a **Fullstack Software Developer**.
+- 🚀 Building something that matters.
 - 🌱 I’m currently contributing in **Fullstack Web-Development** projects.
 - 👯 I’m open to collaborating on **Web Development** projects.
 - 💬 You can reach me at [**LinkedIn**.](https://www.linkedin.com/in/princid/)
